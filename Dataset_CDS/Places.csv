@@ -1,0 +1,9 @@
+place_id,place_name,City_name,type,rating,Entry_fees,visting_per_year_million
+101,jaganath temple,hyderabad,temple,5.0,0,3.1
+102,charminar,hyderabad,historical,4.5,100,2.1
+103,golconda fort,hyderabad,fort,4.2,100,2.5
+104,birla mandir,hyderabad,temple,5.0,0,3.1
+105,salar jung museum,hyderabad,museum,4.1,100,1.1
+106,hussain sagar,hyderabad,lake,3.8,50,1.0
+107,nehru zoological,hyderabad,zoo,4.1,150,2.1
+108,ramoji film city,hyderabad,studio,4.5,1500,3.1
